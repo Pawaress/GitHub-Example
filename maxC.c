@@ -3,6 +3,7 @@ main(){
 
 int input,nub;
 int addn,addp;
+printf("Enater Number :");
 scanf("%d",&input);
 if((0<input)){
 nub=input+1;
